@@ -12,3 +12,10 @@ Rebuilt it so we could generate DNA's from the old files.
 
 Right under layerConfigurations in src/config.js there is overrideChads variable. 
 ![image](https://user-images.githubusercontent.com/97899677/202341293-51057575-f810-4179-9d6c-d4fb30d8f9cc.png)
+
+....
+
+open folder with VSC code
+new terminal: cmd terminal
+npm install
+node index.js
