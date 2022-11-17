@@ -16,6 +16,9 @@ Right under layerConfigurations in src/config.js there is overrideChads variable
 ....
 
 open folder with VSC code
+
 new terminal: cmd terminal
+
 npm install
+
 node index.js
